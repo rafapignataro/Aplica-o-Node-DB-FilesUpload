@@ -88,6 +88,8 @@ class ImportTransactionsService {
         },
       ),
     );
+    await fs.promises.unlink(filePath);
+
     return objectedCSV;
   }
 }
