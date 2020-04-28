@@ -36,7 +36,7 @@ npm install
 ```
 
 ### 3: Alterar config do banco
-- Na pasta do projeto, existe um arquivo chamado orconfig.
+- Na pasta do projeto, existe um arquivo chamado ormconfig.
 - Altere ele para as configurações do seu banco.
 
 ### 4: Rode o projeto
@@ -49,4 +49,4 @@ npm run dev:server
 yarn dev:server
 ```
 
-#### Agora é só acessá-lo via web: http://localhost:3000 !
+#### Agora é só acessá-lo via web: http://localhost:3333 !
